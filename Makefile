@@ -39,6 +39,6 @@ $(EXEC) : $(OBJS) Makefile
 	$(ASM) $(AFLAGS) -g -o $@ -l $@.lst $<
 
 clean:
-	rm $(EXEC) $(OBJS) *~ .*~
+	rm -f $(EXEC) $(OBJS) *~ .[^.]*~
 
 all: $(EXEC)

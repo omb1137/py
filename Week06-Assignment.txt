@@ -1,0 +1,39 @@
+Week06 Assignment (Due: Oct 29th at 11:30PM)
+Question)
+A witness reported that a vehicle has hit
+another vehicle when it was getting out of a
+parking spot in a mega shopping mall. The
+witness could only identify the make and the
+color of the guilty car but not its license plate.
+The mega shopping mall only monitors the
+entering vehicles from the single entrance of its
+parking lot by recording the make, color, and
+license plate number of the entering vehicles. We have given the log file (logfile.txt) of all
+vehicles on the date of the accident. Assuming that the guilty car is a white Nissan, and the
+accident took place around 2:15pm, write a Fortran program to identify those plate numbers
+entered before the accident time. Your code should create an output text file named
+output_plates.txt and lists the license plate(s), and hour & minute of entry(ies) following
+the below sentence & header.
+The below-listed license plate(s) should be contacted:
+Plate
+hr min
+Note: In your output file, between the plate numbers and hour should be five spaces and between hour
+and minute should be two spaces.
+Hint: Lecture06 materials, and the EECS2501-Additional Examples.pdf
+Save your programs as Your_name.f90 or Your_name.f95 and upload (Total upload: 1 file).
+Rubric)
+2/2:
+1.25/2:
+0.75/2:
+0.5/2:
+0/2:
+
+Code works properly and presentation on the screen is exactly the same as instructed.
+Code finds the targets properly but presentation on the screen has missing info.
+Code does not work properly and provide wrong findings.
+Code does not work properly due to an error(s).
+No submission.
+
+Page 1 of 1
+
+
